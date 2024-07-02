@@ -24,3 +24,11 @@ This part is broken into sections:
 - Take in data, train themselves to recognize patterns within data, predict output for new set of similar data
 - In this project, we are using neural networks to forecast solar conditions and power generation
 
+## Section 2: Implementing model optimization and further training techniques in given reference project
+
+### Goal: To reduce training error to provide an increase in accuracy in solar energy predictions
+
+- Stanford students randomized their examples and split them into train/dev/test sets. A better strategy would be to use sequences of data to account for the short-term, and how one days's weather affects the immediate next day (to a certain extent).
+- A long, short-term memory model could be built to consider this.
+
+Note: During the final few moments I ran into issues with my developing environment and setup. I'm unable to run or test anything currently, but as soon as I am able to I will push changes to this repository. 
