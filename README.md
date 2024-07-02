@@ -31,4 +31,4 @@ This part is broken into sections:
 - Stanford students randomized their examples and split them into train/dev/test sets. A better strategy would be to use sequences of data to account for the short-term, and how one days's weather affects the immediate next day (to a certain extent).
 - A long, short-term memory model could be built to consider this.
 
-Note: During the final few moments I ran into issues with my developing environment and setup. I'm unable to run or test anything currently, but as soon as I am able to I will push changes to this repository. 
+Note: During the final few moments I ran into issues with my developing environment and setup. I'm unable to run or test anything currently, but as soon as I am able to I will push changes and the updated rnn.py program to this repository.
